@@ -1,6 +1,5 @@
 trojan://b44579e1-f803-4981-86bc-aa8c783daa04@uk1.trojanvh.xyz:80#github.com/freefq%20-%20%E8%8B%B1%E5%9B%BD%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8%2025
 vmess://ws+tls:17b2a313-37a0-4945-a8e4-e63375506b4a-0@185.162.228.230:443/?host=lg10.cfcdn1.xyz&path=/A2DJOPFT&tlsServerName=lg10.cfcdn1.xyz#
-vmess://ws+tls:801e83c8-b022-4608-be37-dfccc47f562f-0@172.67.232.197:443/?host=nhufgj.mkitthu.ga&path=/fzrwvws&tlsServerName=nhufgj.mkitthu.ga#qcc-1-1
 vmess://ws+tls:c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7-0@185.162.228.110:443/?host=oplg1.cfcdn2.xyz&path=/AUIKN8AU&tlsServerName=oplg1.cfcdn2.xyz#
 vmess://ws:b9f6ef01-a4a6-4a95-8c22-59666be14599-0@147.139.160.130:80/?path=/vmess#
 vmess://ws+tls:56a2188b-2ab7-402c-b9b8-34847fdf0958-0@141.193.213.20:443/?host=oplg1.zhujicn2.com&path=/5QNROSRV&tlsServerName=oplg1.zhujicn2.com#
